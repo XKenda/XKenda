@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @XKenda
-- 👀 I’m interested in programmming in general
+- 👀 I’m Front-End Web Development
 - 🌱 I’m currently learning React, Node.JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
